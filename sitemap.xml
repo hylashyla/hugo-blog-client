@@ -2,27 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/hugo-blog-client/</loc>
+    <loc>https://hylashyla.github.io/hugo-blog-client/</loc>
     <lastmod>2024-06-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-blog-client/posts/</loc>
+    <loc>https://hylashyla.github.io/hugo-blog-client/posts/</loc>
     <lastmod>2024-06-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-blog-client/tags/</loc>
+    <loc>https://hylashyla.github.io/hugo-blog-client/tags/</loc>
     <lastmod>2024-06-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-blog-client/posts/welcome/</loc>
+    <loc>https://hylashyla.github.io/hugo-blog-client/posts/welcome/</loc>
     <lastmod>2024-06-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-blog-client/tags/%E6%9D%82%E8%B0%88/</loc>
+    <loc>https://hylashyla.github.io/hugo-blog-client/tags/%E6%9D%82%E8%B0%88/</loc>
     <lastmod>2024-06-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-blog-client/categories/</loc>
+    <loc>https://hylashyla.github.io/hugo-blog-client/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/hugo-blog-client/series/</loc>
+    <loc>https://hylashyla.github.io/hugo-blog-client/series/</loc>
   </url><url>
-    <loc>http://localhost:1313/hugo-blog-client/archives/</loc>
+    <loc>https://hylashyla.github.io/hugo-blog-client/archives/</loc>
   </url><url>
-    <loc>http://localhost:1313/hugo-blog-client/search/</loc>
+    <loc>https://hylashyla.github.io/hugo-blog-client/search/</loc>
   </url>
 </urlset>
